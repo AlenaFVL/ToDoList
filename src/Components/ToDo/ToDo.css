@@ -1,0 +1,25 @@
+.todo-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid;
+    background-color: #a4cf718c;
+    width: 90%;
+    height: 3rem;
+    border: 0.3rem;
+    border-radius: 10px;
+    margin-bottom: 0.5rem;
+    padding:16px;
+    text-overflow:initial;
+}
+
+.icons {    
+    font-size: 1.5rem;
+    cursor: pointer;
+    
+}
+
+.edit {
+   font-size: 1.7rem;
+   margin-right: 0.5rem; 
+}

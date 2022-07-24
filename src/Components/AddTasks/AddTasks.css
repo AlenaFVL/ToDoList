@@ -1,0 +1,60 @@
+
+.todo-input, .edit-input {
+    width: 100%;
+    height: 2rem;
+    border: none;
+    background-color: #a4cf7142;
+    font-size: 1rem; 
+    outline: none;
+    color: #424242;
+}
+
+.todo-input::placeholder {
+    color: #424242;
+}
+
+.todo-button,.edit-button {
+    width: 3rem;
+    height: 2rem; 
+    border: none;
+    background-color: #a4cf718c;
+    font-size: 1.5rem;
+    color: #424242;
+    cursor: pointer;
+    padding-top: 0.2rem;
+}
+
+.edit-input {
+    padding: 1rem;
+}
+
+.edit-button{
+    width: 5rem;
+    margin-right: 3%;
+    font-size: 1rem;
+    padding-top: 0;
+    font-size: 1rem;
+    border: 2px solid #424242;
+    border-radius: 10px;
+}
+
+.todo-form {
+    display: flex;
+    background-color: #a4cf718c;
+    width: 90%;
+    height: 3rem;
+    margin-top: 2%;
+    border: 0.3rem  ;
+    border-radius: 10px;
+    margin-bottom: 0.5rem;
+}
+
+.hold {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 3rem;
+    margin-bottom: 40%;
+}
