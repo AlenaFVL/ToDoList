@@ -12,14 +12,13 @@ The app to write your plans for day and controll their
 * JavaScript
 * React
 
-## Available Scripts
+## View the app
+On http://todolistfvl.surge.sh/
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Local instalation
+* Clone the repo
+* In Terminal, run: npm install
+* In the project directory, run: npm start This runs the app in development mode and opens it on http://localhost:3000 in the browser.
 
 
 
